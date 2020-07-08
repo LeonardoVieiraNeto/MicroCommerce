@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Microservices/ProductCatalog/ProductCatalog.csproj": {}
+  },
+  "projects": {
+    "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/Interfaces.csproj",
+        "packagesPath": "/Users/leonardoneto/.nuget/packages/",
+        "outputPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leonardoneto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Shed.CoreKit.WebApi.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Microservices/ProductCatalog/ProductCatalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Microservices/ProductCatalog/ProductCatalog.csproj",
+        "projectName": "ProductCatalog",
+        "projectPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Microservices/ProductCatalog/ProductCatalog.csproj",
+        "packagesPath": "/Users/leonardoneto/.nuget/packages/",
+        "outputPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Microservices/ProductCatalog/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leonardoneto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/Interfaces.csproj": {
+                "projectPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/Interfaces.csproj"
+              },
+              "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/Middleware.csproj": {
+                "projectPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/Middleware.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Shed.CoreKit.WebApi": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/Middleware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/Middleware.csproj",
+        "projectName": "Middleware",
+        "projectPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/Middleware.csproj",
+        "packagesPath": "/Users/leonardoneto/.nuget/packages/",
+        "outputPath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leonardoneto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

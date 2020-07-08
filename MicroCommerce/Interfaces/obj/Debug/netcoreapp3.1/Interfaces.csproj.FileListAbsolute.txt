@@ -1,0 +1,8 @@
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.deps.json
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.dll
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfoInputs.cache
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfo.cs
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csproj.CoreCompileInputs.cache
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.dll
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.pdb

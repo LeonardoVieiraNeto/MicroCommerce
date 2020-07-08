@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+MyzE4x3c9A800wwiIntwHt6+GB1LBmofqtB7s0C260S7fi3RxeY9mRRMDeb4GBOv5iL/JeYb52zd2XDzHPEXQ==",
+  "success": true,
+  "projectFilePath": "/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Interfaces/Interfaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardoneto/.nuget/packages/shed.corekit.webapi.abstractions/1.0.0/shed.corekit.webapi.abstractions.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

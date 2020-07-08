@@ -1,0 +1,9 @@
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/bin/Debug/netcoreapp3.1/Middleware.deps.json
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/bin/Debug/netcoreapp3.1/Middleware.dll
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/bin/Debug/netcoreapp3.1/Middleware.pdb
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/Debug/netcoreapp3.1/Middleware.csprojAssemblyReference.cache
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/Debug/netcoreapp3.1/Middleware.AssemblyInfoInputs.cache
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/Debug/netcoreapp3.1/Middleware.AssemblyInfo.cs
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/Debug/netcoreapp3.1/Middleware.csproj.CoreCompileInputs.cache
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/Debug/netcoreapp3.1/Middleware.dll
+/Users/leonardoneto/Projects/MicroCommerce/MicroCommerce/Middleware/obj/Debug/netcoreapp3.1/Middleware.pdb

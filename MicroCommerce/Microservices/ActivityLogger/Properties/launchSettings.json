@@ -1,0 +1,19 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://179.109.47.138:60673",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "MicroCommerce.ActivityLogger": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://179.109.47.138:5003"
+    }
+  }
+}
